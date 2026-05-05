@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img2.pixhost.to/images/7538/720347067_asepnotdev.jpg" alt="New Bailyes AsepNotDev" width="100%" />
+<img src="https://a.top4top.io/p_3777ijtol1.jpg" alt="New Bailyes Hanzxyzz" width="100%" />
 
 <br/>
 <br/>
@@ -20,7 +20,7 @@ Built on WebSocket for speed, stability, and full multi-device support.
 
 <br/>
 
-[Installation](#getting-started) &nbsp;2022&nbsp; [Documentation](#sendmessage-documentation) &nbsp;2022&nbsp; [Features](#main-features) &nbsp;2022&nbsp; [Telegram](https://t.me/asepisheree)
+[Installation](#getting-started) &nbsp;2022&nbsp; [Documentation](#sendmessage-documentation) &nbsp;2022&nbsp; [Features](#main-features) &nbsp;2022&nbsp; [Telegram](https://t.me/hanzxyzz)
 
 </div>
 
